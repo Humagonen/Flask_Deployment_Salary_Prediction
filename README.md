@@ -1,2 +1,2 @@
-# Flask_deployment_salary_prediction
+# Flask_deployment_salary_predict
  
